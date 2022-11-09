@@ -24,7 +24,7 @@ void displayGame() {
   // img locations
   image(rock, 50, 400, 100, 100);
   image(paper, 250, 400, 100, 100);
-  image(scissors, 450, 400, 100, 100);
+  image(scissors, 450, 4090, 100, 100);
 
 
 }
